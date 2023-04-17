@@ -1,4 +1,4 @@
-Cloud Native Resource Monitoring Python App on K8s!
+## ***Cloud Native Resource Monitoring Python App on K8s!***
 
 ## **Part 1: Deploying the Flask application locally**
 
